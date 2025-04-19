@@ -1,2 +1,2 @@
-# RayUltraSimpleTracing
-A Ultra Simple Ray Tracer written in RUST.
+# FART - Feebly Acceptable Ray Tracer
+A poor implementation of a Ray Tracer.
